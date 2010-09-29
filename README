@@ -1,0 +1,10 @@
+Skrypt w ruby który pozwala na konwersję arkuszu excela z planem zajęć na plik kalendarza w formacie ical. 
+
+ruby xls_to_ical.rb plan_zajec.xls
+
+Plik wynikowy lessons.ics można potem zaimportować do google calendara, icala lub innego programu który obsługuje ten format
+
+Należy zainstalować podane gemy:
+
+gem install icalendar
+gem install roo

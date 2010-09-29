@@ -1,0 +1,2217 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+PRODID:iCalendar-Ruby
+VERSION:2.0
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101004T113000
+DTSTAMP:20100928T225902
+DTSTART:20101004T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:02+02:00_943577940@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Dziedzic D. dr\nWykładowca: \nSala
+ : SW-1
+DTEND:20101004T131500
+DTSTAMP:20100928T225902
+DTSTART:20101004T114500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Sztuka studiowania
+UID:2010-09-28T22:59:02+02:00_400474648@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Dziedzic D. dr\nWykładowca: \nSala
+ : SW-1
+DTEND:20101004T150000
+DTSTAMP:20100928T225902
+DTSTART:20101004T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Sztuka studiowania
+UID:2010-09-28T22:59:02+02:00_796463173@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101004T164500
+DTSTAMP:20100928T225902
+DTSTART:20101004T151500
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:02+02:00_737624139@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101006T094500
+DTSTAMP:20100928T225902
+DTSTART:20101006T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:02+02:00_618695513@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101006T113000
+DTSTAMP:20100928T225902
+DTSTART:20101006T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski 
+UID:2010-09-28T22:59:02+02:00_57673529@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101006T113000
+DTSTAMP:20100928T225902
+DTSTART:20101006T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski 
+UID:2010-09-28T22:59:02+02:00_215324634@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101007T113000
+DTSTAMP:20100928T225902
+DTSTART:20101007T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:02+02:00_493056211@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20101007T131500
+DTSTAMP:20100928T225902
+DTSTART:20101007T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:02+02:00_784649657@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20101007T150000
+DTSTAMP:20100928T225903
+DTSTART:20101007T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:03+02:00_248917533@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Sołek - Bodziony M. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101008T164500
+DTSTAMP:20100928T225903
+DTSTART:20101008T151500
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:03+02:00_125263452@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Pełech - Pilichowski T. dr\nWykładowca: 
+ \nSala: F-6
+DTEND:20101008T191500
+DTSTAMP:20100928T225903
+DTSTART:20101008T170000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:03+02:00_767935146@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: \nGrupa dziekańska: \nGrupa lektorska/komputero
+ wa: \nGrupa wykładowa: \nWykładowca: \nSala: 
+DTEND:20101009T130000
+DTSTAMP:20100928T225903
+DTSTART:20101009T110000
+SEQUENCE:0
+SUMMARY:Uroczysta inauguracja roku akademickiego 2010/2011 w Dużej Auli WS
+ EI przy ul. Św. Filipa 6 (Dom Kultury Kolejarza). 
+UID:2010-09-28T22:59:03+02:00_280827470@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101011T113000
+DTSTAMP:20100928T225903
+DTSTART:20101011T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:03+02:00_568295797@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101011T150000
+DTSTAMP:20100928T225903
+DTSTART:20101011T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:03+02:00_594350050@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101011T191500
+DTSTAMP:20100928T225903
+DTSTART:20101011T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:03+02:00_72288408@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101011T213000
+DTSTAMP:20100928T225903
+DTSTART:20101011T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:03+02:00_803033794@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101013T094500
+DTSTAMP:20100928T225903
+DTSTART:20101013T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:03+02:00_95753363@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101013T113000
+DTSTAMP:20100928T225903
+DTSTART:20101013T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:03+02:00_568813214@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101013T113000
+DTSTAMP:20100928T225903
+DTSTART:20101013T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:03+02:00_693359486@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Molenda K. dr\nWykładowca: \nSala:
+  SW-1
+DTEND:20101014T094500
+DTSTAMP:20100928T225903
+DTSTART:20101014T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Sztuka studiowania
+UID:2010-09-28T22:59:03+02:00_313722514@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101014T113000
+DTSTAMP:20100928T225903
+DTSTART:20101014T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:03+02:00_970248307@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20101014T131500
+DTSTAMP:20100928T225903
+DTSTART:20101014T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:04+02:00_65771245@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101014T150000
+DTSTAMP:20100928T225904
+DTSTART:20101014T133000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:04+02:00_827170455@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101014T150000
+DTSTAMP:20100928T225904
+DTSTART:20101014T133000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:04+02:00_371348150@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101018T113000
+DTSTAMP:20100928T225904
+DTSTART:20101018T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:04+02:00_538145464@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101018T131500
+DTSTAMP:20100928T225904
+DTSTART:20101018T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:04+02:00_967571129@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101018T150000
+DTSTAMP:20100928T225904
+DTSTART:20101018T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:04+02:00_198700656@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101018T191500
+DTSTAMP:20100928T225904
+DTSTART:20101018T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:04+02:00_401066987@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101018T213000
+DTSTAMP:20100928T225904
+DTSTART:20101018T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:04+02:00_286098754@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101020T094500
+DTSTAMP:20100928T225904
+DTSTART:20101020T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:04+02:00_827838815@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101020T113000
+DTSTAMP:20100928T225904
+DTSTART:20101020T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:04+02:00_919128889@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101020T113000
+DTSTAMP:20100928T225904
+DTSTART:20101020T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:04+02:00_446321580@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20101020T131500
+DTSTAMP:20100928T225904
+DTSTART:20101020T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:04+02:00_21950810@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/Z W/1/IE\nGrupa wykładowa: Biblioteka/Biuro Karier\nWykładowca
+ : \nSala: F-6
+DTEND:20101020T150000
+DTSTAMP:20100928T225904
+DTSTART:20101020T133000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Sztuka studiowania
+UID:2010-09-28T22:59:04+02:00_166703901@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101021T121500
+DTSTAMP:20100928T225904
+DTSTART:20101021T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:04+02:00_528816370@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20101021T150000
+DTSTAMP:20100928T225904
+DTSTART:20101021T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:04+02:00_270743072@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101025T113000
+DTSTAMP:20100928T225905
+DTSTART:20101025T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:05+02:00_862235976@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101025T131500
+DTSTAMP:20100928T225905
+DTSTART:20101025T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:05+02:00_285465160@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101025T150000
+DTSTAMP:20100928T225905
+DTSTART:20101025T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:05+02:00_586514641@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101025T191500
+DTSTAMP:20100928T225905
+DTSTART:20101025T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:05+02:00_973979567@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101025T213000
+DTSTAMP:20100928T225905
+DTSTART:20101025T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:05+02:00_756681780@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101027T094500
+DTSTAMP:20100928T225905
+DTSTART:20101027T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:05+02:00_955865173@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101027T113000
+DTSTAMP:20100928T225905
+DTSTART:20101027T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:05+02:00_237324416@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101027T113000
+DTSTAMP:20100928T225905
+DTSTART:20101027T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:05+02:00_954933060@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20101027T131500
+DTSTAMP:20100928T225905
+DTSTART:20101027T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:05+02:00_948256901@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101028T113000
+DTSTAMP:20100928T225905
+DTSTART:20101028T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:05+02:00_99943136@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20101028T131500
+DTSTAMP:20100928T225905
+DTSTART:20101028T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:05+02:00_310760133@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101028T150000
+DTSTAMP:20100928T225906
+DTSTART:20101028T133000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:06+02:00_799689425@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101028T150000
+DTSTAMP:20100928T225906
+DTSTART:20101028T133000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:06+02:00_353962249@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101103T113000
+DTSTAMP:20100928T225906
+DTSTART:20101103T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:06+02:00_646428352@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101103T113000
+DTSTAMP:20100928T225906
+DTSTART:20101103T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:06+02:00_822356476@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101104T121500
+DTSTAMP:20100928T225906
+DTSTART:20101104T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:06+02:00_596223167@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20101104T150000
+DTSTAMP:20100928T225906
+DTSTART:20101104T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:06+02:00_191718246@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Sołek - Bodziony M. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101105T164500
+DTSTAMP:20100928T225906
+DTSTART:20101105T151500
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:06+02:00_891419490@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-2\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Pełech - Pilichowski T. dr\nWykładowca:
+  \nSala: SW-2
+DTEND:20101105T191500
+DTSTAMP:20100928T225906
+DTSTART:20101105T170000
+LOCATION:SW-2
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:06+02:00_951846353@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101108T113000
+DTSTAMP:20100928T225906
+DTSTART:20101108T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:06+02:00_94926557@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101108T131500
+DTSTAMP:20100928T225906
+DTSTART:20101108T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:06+02:00_446214770@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101108T150000
+DTSTAMP:20100928T225906
+DTSTART:20101108T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:06+02:00_563435506@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101108T191500
+DTSTAMP:20100928T225906
+DTSTART:20101108T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:06+02:00_809562894@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101108T213000
+DTSTAMP:20100928T225906
+DTSTART:20101108T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:06+02:00_205758629@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101110T094500
+DTSTAMP:20100928T225906
+DTSTART:20101110T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:06+02:00_412746044@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101110T113000
+DTSTAMP:20100928T225906
+DTSTART:20101110T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:06+02:00_225067218@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101110T113000
+DTSTAMP:20100928T225906
+DTSTART:20101110T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:06+02:00_147002165@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20101110T131500
+DTSTAMP:20100928T225906
+DTSTART:20101110T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:06+02:00_490977732@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101115T113000
+DTSTAMP:20100928T225907
+DTSTART:20101115T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:07+02:00_844485216@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101115T131500
+DTSTAMP:20100928T225907
+DTSTART:20101115T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:07+02:00_176438317@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101115T150000
+DTSTAMP:20100928T225907
+DTSTART:20101115T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:07+02:00_865259946@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101115T191500
+DTSTAMP:20100928T225907
+DTSTART:20101115T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:07+02:00_9539485@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101115T213000
+DTSTAMP:20100928T225907
+DTSTART:20101115T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:07+02:00_234710603@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101117T094500
+DTSTAMP:20100928T225907
+DTSTART:20101117T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:07+02:00_673996376@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101117T113000
+DTSTAMP:20100928T225907
+DTSTART:20101117T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:07+02:00_428611516@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101117T113000
+DTSTAMP:20100928T225907
+DTSTART:20101117T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:07+02:00_490699097@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-2\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Waligórski B. inż.\nWykładowca: 
+ \nSala: SW-2
+DTEND:20101117T164500
+DTSTAMP:20100928T225907
+DTSTART:20101117T151500
+LOCATION:SW-2
+SEQUENCE:0
+SUMMARY:BHP
+UID:2010-09-28T22:59:07+02:00_704792339@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101118T113000
+DTSTAMP:20100928T225907
+DTSTART:20101118T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:07+02:00_157386692@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20101118T131500
+DTSTAMP:20100928T225907
+DTSTART:20101118T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:07+02:00_444715076@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101118T150000
+DTSTAMP:20100928T225907
+DTSTART:20101118T133000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:07+02:00_499583636@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101118T150000
+DTSTAMP:20100928T225907
+DTSTART:20101118T133000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:07+02:00_229344223@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Sołek - Bodziony M. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101119T164500
+DTSTAMP:20100928T225907
+DTSTART:20101119T151500
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:07+02:00_654765145@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-2\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Pełech - Pilichowski T. dr\nWykładowca:
+  \nSala: SW-2
+DTEND:20101119T191500
+DTSTAMP:20100928T225907
+DTSTART:20101119T170000
+LOCATION:SW-2
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:07+02:00_471862912@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101122T113000
+DTSTAMP:20100928T225907
+DTSTART:20101122T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:07+02:00_337990634@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101122T131500
+DTSTAMP:20100928T225908
+DTSTART:20101122T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:08+02:00_174194187@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101122T150000
+DTSTAMP:20100928T225908
+DTSTART:20101122T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:08+02:00_772552550@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101122T191500
+DTSTAMP:20100928T225908
+DTSTART:20101122T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:08+02:00_618947079@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101122T213000
+DTSTAMP:20100928T225908
+DTSTART:20101122T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:08+02:00_373280217@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101124T094500
+DTSTAMP:20100928T225908
+DTSTART:20101124T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:08+02:00_670286237@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101124T113000
+DTSTAMP:20100928T225908
+DTSTART:20101124T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:08+02:00_268030709@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101124T113000
+DTSTAMP:20100928T225908
+DTSTART:20101124T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:08+02:00_155740183@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20101124T131500
+DTSTAMP:20100928T225908
+DTSTART:20101124T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:08+02:00_932901622@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-2\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Waligórski B. inż.\nWykładowca: 
+ \nSala: SW-2
+DTEND:20101124T164500
+DTSTAMP:20100928T225908
+DTSTART:20101124T151500
+LOCATION:SW-2
+SEQUENCE:0
+SUMMARY:BHP
+UID:2010-09-28T22:59:08+02:00_669961090@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101125T121500
+DTSTAMP:20100928T225908
+DTSTART:20101125T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:08+02:00_304563816@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20101125T150000
+DTSTAMP:20100928T225908
+DTSTART:20101125T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:08+02:00_571946007@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101129T113000
+DTSTAMP:20100928T225908
+DTSTART:20101129T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:08+02:00_122829583@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101129T131500
+DTSTAMP:20100928T225908
+DTSTART:20101129T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:08+02:00_417180043@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101129T150000
+DTSTAMP:20100928T225908
+DTSTART:20101129T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:08+02:00_13660215@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101129T191500
+DTSTAMP:20100928T225908
+DTSTART:20101129T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:08+02:00_693154484@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101129T213000
+DTSTAMP:20100928T225908
+DTSTART:20101129T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:08+02:00_222746491@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101201T113000
+DTSTAMP:20100928T225908
+DTSTART:20101201T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:08+02:00_660236837@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101201T113000
+DTSTAMP:20100928T225908
+DTSTART:20101201T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:08+02:00_217511809@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101202T113000
+DTSTAMP:20100928T225908
+DTSTART:20101202T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:08+02:00_211415618@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20101202T131500
+DTSTAMP:20100928T225908
+DTSTART:20101202T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:08+02:00_115655825@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101202T150000
+DTSTAMP:20100928T225908
+DTSTART:20101202T133000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:08+02:00_65437426@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101202T150000
+DTSTAMP:20100928T225908
+DTSTART:20101202T133000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:08+02:00_939812288@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Sołek - Bodziony M. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101203T164500
+DTSTAMP:20100928T225908
+DTSTART:20101203T160000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:08+02:00_642948040@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Pełech - Pilichowski T. dr\nWykładowca: 
+ \nSala: F-6
+DTEND:20101203T191500
+DTSTAMP:20100928T225908
+DTSTART:20101203T170000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:08+02:00_120438012@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101206T113000
+DTSTAMP:20100928T225908
+DTSTART:20101206T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:08+02:00_341017325@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101206T131500
+DTSTAMP:20100928T225908
+DTSTART:20101206T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:08+02:00_70834734@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20101206T150000
+DTSTAMP:20100928T225908
+DTSTART:20101206T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:08+02:00_469488990@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101206T191500
+DTSTAMP:20100928T225908
+DTSTART:20101206T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:08+02:00_514544251@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101206T213000
+DTSTAMP:20100928T225909
+DTSTART:20101206T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:09+02:00_156722156@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20101208T094500
+DTSTAMP:20100928T225909
+DTSTART:20101208T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:09+02:00_525167611@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101208T113000
+DTSTAMP:20100928T225909
+DTSTART:20101208T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:09+02:00_223420236@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101208T113000
+DTSTAMP:20100928T225909
+DTSTART:20101208T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:09+02:00_909868273@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20101208T131500
+DTSTAMP:20100928T225909
+DTSTART:20101208T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:09+02:00_905190883@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101209T121500
+DTSTAMP:20100928T225909
+DTSTART:20101209T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:09+02:00_617097296@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20101209T150000
+DTSTAMP:20100928T225909
+DTSTART:20101209T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:09+02:00_493312691@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładowca: \nSal
+ a: PK-5
+DTEND:20101209T164500
+DTSTAMP:20100928T225909
+DTSTART:20101209T151500
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:09+02:00_354505819@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20101213T113000
+DTSTAMP:20100928T225909
+DTSTART:20101213T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:09+02:00_849861017@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101213T131500
+DTSTAMP:20100928T225909
+DTSTART:20101213T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:09+02:00_949298174@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-2\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-2
+DTEND:20101213T150000
+DTSTAMP:20100928T225909
+DTSTART:20101213T133000
+LOCATION:SW-2
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:09+02:00_748880144@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101213T191500
+DTSTAMP:20100928T225909
+DTSTART:20101213T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:09+02:00_53937799@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101213T213000
+DTSTAMP:20100928T225909
+DTSTART:20101213T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:09+02:00_985385061@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-2
+DTEND:20101215T094500
+DTSTAMP:20100928T225909
+DTSTART:20101215T081500
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:09+02:00_730421152@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101215T113000
+DTSTAMP:20100928T225909
+DTSTART:20101215T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:09+02:00_593275849@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101215T113000
+DTSTAMP:20100928T225909
+DTSTART:20101215T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:09+02:00_988228484@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20101215T131500
+DTSTAMP:20100928T225909
+DTSTART:20101215T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:09+02:00_298684076@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20101216T113000
+DTSTAMP:20100928T225909
+DTSTART:20101216T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:09+02:00_771416396@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20101216T131500
+DTSTAMP:20100928T225909
+DTSTART:20101216T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:09+02:00_692868114@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101216T150000
+DTSTAMP:20100928T225909
+DTSTART:20101216T133000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:09+02:00_204139098@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101216T150000
+DTSTAMP:20100928T225909
+DTSTART:20101216T133000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:09+02:00_946890368@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20101220T113000
+DTSTAMP:20100928T225910
+DTSTART:20101220T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:10+02:00_766867763@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20101220T131500
+DTSTAMP:20100928T225910
+DTSTART:20101220T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:10+02:00_552426789@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101220T191500
+DTSTAMP:20100928T225910
+DTSTART:20101220T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:10+02:00_505598330@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20101220T213000
+DTSTAMP:20100928T225910
+DTSTART:20101220T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:10+02:00_896486870@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20101222T113000
+DTSTAMP:20100928T225910
+DTSTART:20101222T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:11+02:00_830874767@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20101222T113000
+DTSTAMP:20100928T225911
+DTSTART:20101222T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:11+02:00_900535144@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-2
+DTEND:20110103T113000
+DTSTAMP:20100928T225911
+DTSTART:20110103T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:11+02:00_824730581@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20110103T131500
+DTSTAMP:20100928T225911
+DTSTART:20110103T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:11+02:00_711575@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110103T191500
+DTSTAMP:20100928T225911
+DTSTART:20110103T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:11+02:00_450973001@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110103T213000
+DTSTAMP:20100928T225911
+DTSTART:20110103T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:11+02:00_448096092@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-2
+DTEND:20110105T094500
+DTSTAMP:20100928T225912
+DTSTART:20110105T081500
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:12+02:00_159192726@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20110105T113000
+DTSTAMP:20100928T225912
+DTSTART:20110105T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:12+02:00_884263814@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20110105T113000
+DTSTAMP:20100928T225912
+DTSTART:20110105T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:12+02:00_285877564@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20110106T121500
+DTSTAMP:20100928T225912
+DTSTART:20110106T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:12+02:00_296537117@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20110106T150000
+DTSTAMP:20100928T225912
+DTSTART:20110106T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:12+02:00_730105863@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20110110T113000
+DTSTAMP:20100928T225912
+DTSTART:20110110T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:12+02:00_588388934@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20110110T131500
+DTSTAMP:20100928T225912
+DTSTART:20110110T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:12+02:00_555300885@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20110110T150000
+DTSTAMP:20100928T225912
+DTSTART:20110110T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:12+02:00_437546455@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110110T191500
+DTSTAMP:20100928T225912
+DTSTART:20110110T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:12+02:00_66790205@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110110T213000
+DTSTAMP:20100928T225912
+DTSTART:20110110T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:12+02:00_386400449@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20110112T094500
+DTSTAMP:20100928T225912
+DTSTART:20110112T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:12+02:00_489638684@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20110112T113000
+DTSTAMP:20100928T225912
+DTSTART:20110112T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:12+02:00_554007649@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20110112T113000
+DTSTAMP:20100928T225912
+DTSTART:20110112T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:12+02:00_775132576@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20110112T131500
+DTSTAMP:20100928T225912
+DTSTART:20110112T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:12+02:00_541895360@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20110113T113000
+DTSTAMP:20100928T225912
+DTSTART:20110113T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:12+02:00_539746320@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20110113T131500
+DTSTAMP:20100928T225912
+DTSTART:20110113T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:12+02:00_632796722@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20110113T150000
+DTSTAMP:20100928T225913
+DTSTART:20110113T133000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:13+02:00_661694489@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20110113T150000
+DTSTAMP:20100928T225913
+DTSTART:20110113T133000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:13+02:00_825887365@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20110117T113000
+DTSTAMP:20100928T225913
+DTSTART:20110117T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:13+02:00_643704356@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20110117T131500
+DTSTAMP:20100928T225913
+DTSTART:20110117T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:13+02:00_406786564@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20110117T150000
+DTSTAMP:20100928T225913
+DTSTART:20110117T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:13+02:00_430256420@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110117T191500
+DTSTAMP:20100928T225913
+DTSTART:20110117T171900
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:13+02:00_317634640@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110117T213000
+DTSTAMP:20100928T225913
+DTSTART:20110117T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:13+02:00_224831897@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110117T213000
+DTSTAMP:20100928T225913
+DTSTART:20110117T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:13+02:00_176919372@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Gurgul H. prof. dr hab.\nWykładowca: \nS
+ ala: SW-1
+DTEND:20110119T094500
+DTSTAMP:20100928T225913
+DTSTART:20110119T081500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:13+02:00_368228873@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20110119T113000
+DTSTAMP:20100928T225913
+DTSTART:20110119T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:13+02:00_709991429@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20110119T113000
+DTSTAMP:20100928T225913
+DTSTART:20110119T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:13+02:00_758912371@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Strojny A. mgr\nWykładowca: \nSala: F-4
+DTEND:20110119T131500
+DTSTAMP:20100928T225913
+DTSTART:20110119T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:13+02:00_744348825@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20110120T121500
+DTSTAMP:20100928T225913
+DTSTART:20110120T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:13+02:00_309135623@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: Inf3/1/IE\nGrupa lektor
+ ska/komputerowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładow
+ ca: \nSala: PK-5
+DTEND:20110120T150000
+DTSTAMP:20100928T225913
+DTSTART:20110120T133000
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:13+02:00_921171030@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: PK-5\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Szymczyk M. mgr inż.\nWykładowca: \nSal
+ a: PK-5
+DTEND:20110120T164500
+DTSTAMP:20100928T225914
+DTSTART:20110120T151500
+LOCATION:PK-5
+SEQUENCE:0
+SUMMARY:Informatyka ekonomiczna
+UID:2010-09-28T22:59:14+02:00_68019986@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-2\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Jędrzejczyk M. dr\nWykładowca: \nSala: F
+ -2
+DTEND:20110124T113000
+DTSTAMP:20100928T225914
+DTSTART:20110124T100000
+LOCATION:F-2
+SEQUENCE:0
+SUMMARY:Rachunkowość
+UID:2010-09-28T22:59:14+02:00_202692763@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-4\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Oleksy - Gębczyk A. mgr\nWykładowca: \nS
+ ala: F-4
+DTEND:20110124T131500
+DTSTAMP:20100928T225914
+DTSTART:20110124T114500
+LOCATION:F-4
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:14+02:00_172207722@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/IE\nGrupa wykładowa: Wypych - Dobkowska M. dr\nWykładowca: \n
+ Sala: SW-1
+DTEND:20110124T150000
+DTSTAMP:20100928T225914
+DTSTART:20110124T133000
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Psychologia
+UID:2010-09-28T22:59:14+02:00_210994977@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-1\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Dziedzic D. dr\nWykładowca: \nSala
+ : SW-1
+DTEND:20110124T164500
+DTSTAMP:20100928T225914
+DTSTART:20110124T151500
+LOCATION:SW-1
+SEQUENCE:0
+SUMMARY:Sztuka studiowania
+UID:2010-09-28T22:59:14+02:00_89004287@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf2/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110124T191500
+DTSTAMP:20100928T225914
+DTSTART:20110124T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:14+02:00_405568759@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf3/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110124T191500
+DTSTAMP:20100928T225914
+DTSTART:20110124T170000
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:14+02:00_993064960@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: Skrzyneckiego 12\nGrupa dziekańska: Wf1/1/WSEI\
+ nGrupa lektorska/komputerowa: W/1/Z W/1/IE\nGrupa wykładowa: Miklowski M. 
+ mgr\nWykładowca: \nSala: Skrzyneckiego 12
+DTEND:20110124T213000
+DTSTAMP:20100928T225914
+DTSTART:20110124T191500
+LOCATION:Skrzyneckiego 12
+SEQUENCE:0
+SUMMARY:Wychowanie fizyczne
+UID:2010-09-28T22:59:14+02:00_166993038@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20110126T094500
+DTSTAMP:20100928T225914
+DTSTART:20110126T081500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:14+02:00_65210616@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20110126T113000
+DTSTAMP:20100928T225914
+DTSTART:20110126T100000
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:14+02:00_859738823@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20110126T113000
+DTSTAMP:20100928T225914
+DTSTART:20110126T100000
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:14+02:00_955157536@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: SW-2\nGrupa dziekańska: \nGrupa lektorska/kompu
+ terowa: W/1/Z W/1/IE\nGrupa wykładowa: Waligórski B. inż.\nWykładowca: 
+ \nSala: SW-2
+DTEND:20110126T160000
+DTSTAMP:20100928T225914
+DTSTART:20110126T151500
+LOCATION:SW-2
+SEQUENCE:0
+SUMMARY:BHP
+UID:2010-09-28T22:59:14+02:00_718351768@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-6\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Tokarski T. dr hab.\, prof. WSEI\nWykłado
+ wca: \nSala: F-6
+DTEND:20110127T113000
+DTSTAMP:20100928T225914
+DTSTART:20110127T100000
+LOCATION:F-6
+SEQUENCE:0
+SUMMARY:Ekonomia
+UID:2010-09-28T22:59:14+02:00_719439321@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-1\nGrupa dziekańska: \nGrupa lektorska/komput
+ erowa: W/1/IE\nGrupa wykładowa: Syrek R. mgr\nWykładowca: \nSala: F-1
+DTEND:20110127T131500
+DTSTAMP:20100928T225914
+DTSTART:20110127T114500
+LOCATION:F-1
+SEQUENCE:0
+SUMMARY:Algebra liniowa
+UID:2010-09-28T22:59:14+02:00_612560185@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-7\nGrupa dziekańska: A1/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Kuzar D. B.A\nWykładowca: \nSala: 
+ F-7
+DTEND:20110127T150000
+DTSTAMP:20100928T225914
+DTSTART:20110127T141500
+LOCATION:F-7
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:14+02:00_919499009@iBook-G4-MacBury-2.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forma zajęć: F-8\nGrupa dziekańska: A2/1/IE\nGrupa lektorska
+ /komputerowa: W/1/IE\nGrupa wykładowa: Wojda A. mgr\nWykładowca: \nSala: 
+ F-8
+DTEND:20110127T150000
+DTSTAMP:20100928T225914
+DTSTART:20110127T141500
+LOCATION:F-8
+SEQUENCE:0
+SUMMARY:Język angielski
+UID:2010-09-28T22:59:14+02:00_348810733@iBook-G4-MacBury-2.local
+END:VEVENT
+END:VCALENDAR
